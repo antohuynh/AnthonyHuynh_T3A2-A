@@ -1,5 +1,9 @@
 # T3A2-A Full Stack Application "Steve's Jobs" by Anthony Huynh, Matthew Ng, Timothy Nguyen
 
+## Link to GitHub Repository
+
+### [GitHub Repo](https://github.com/antohuynh/AnthonyHuynh_T3A2-A)
+
 ## Table of Contents 
 
 [**(R1) Description of website.**](#r1-description-of-website)
