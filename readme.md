@@ -84,7 +84,7 @@ Design Tools
 
 ---
 
-![Dataflow-Diagram](docs/dataflow.PNG)
+![Dataflow Diagram](docs/dataflow.png)
 
 ---
 
