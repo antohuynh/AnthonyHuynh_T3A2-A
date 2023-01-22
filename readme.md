@@ -134,3 +134,11 @@ Design Tools
 ## (R6) Trello Board
 
 ---
+
+![Trello1](docs/trello1.png)
+
+![Trello2](docs/trello2.png)
+
+![Trello3](docs/trello3.png)
+
+---
