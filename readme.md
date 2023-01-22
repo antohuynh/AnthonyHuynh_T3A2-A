@@ -1,4 +1,4 @@
-# T3A2-A Full Stack Application by Anthony Huynh, Matthew Ng, Timothy Nguyen
+# T3A2-A Full Stack Application "Steve's Jobs" by Anthony Huynh, Matthew Ng, Timothy Nguyen
 
 ## Table of Contents 
 
@@ -111,5 +111,26 @@ Design Tools
 
 ---
 
+![Wireframe1](docs/wireframe1.png)
+
+![Wireframe2](docs/wireframe2.png)
+
+![Wireframe3](docs/wireframe3.png)
+
+![Wireframe4](docs/wireframe4.png)
+
+![Wireframe5](docs/wireframe5.png)
+
+![Wireframe6](docs/wireframe6.png)
+
+![Wireframe7](docs/wireframe7.png)
+
+![Wireframe8](docs/wireframe8.png)
+
+![Wireframe9](docs/wireframe9.png)
+
+---
+
 ## (R6) Trello Board
 
+---
