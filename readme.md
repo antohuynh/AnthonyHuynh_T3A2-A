@@ -142,6 +142,8 @@ Design Tools
 
 ---
 
+### [Link to Trello Board](https://trello.com/invite/b/pT8OVgb1/ATTIcb4e3a8b060b7946f0c91dfd619a983092F554B0/t3a2-full-stack-app)
+
 ![Trello1](docs/trello1.png)
 
 ![Trello2](docs/trello2.png)
