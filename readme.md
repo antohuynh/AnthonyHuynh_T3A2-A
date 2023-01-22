@@ -1,22 +1,22 @@
-# Anthony Huynh - T3A2-A
+# T3A2-A Full Stack Application by Anthony Huynh, Matthew Ng, Timothy Nguyen
 
 ## Table of Contents 
 
-[**(R1) Description of website.**](#r1)
+[**(R1) Description of website.**](#r1-description-of-website)
 
-[**(R2) Dataflow Diagram**](#r2)
+[**(R2) Dataflow Diagram**](#r2-dataflow-diagram)
 
-[**(R3) Application Architecture Diagram**](#r3)
+[**(R3) Application Architecture Diagram**](#r3-application-architecture-diagram)
 
-[**(R4) User Stories**](#r4)
+[**(R4) User Stories**](#r4-user-stories)
 
-[**(R5) Wireframes**](#r5)
+[**(R5) Wireframes**](#r5-wireframes)
 
-[**(R6) Trello Board**](#r6)
+[**(R6) Trello Board**](#r6-trello-board)
 
 ---
 
-## (R1) 
+## (R1) Description of Website 
 
 ---
 
@@ -67,6 +67,7 @@ Testing
 Project Management
 - Trello
 - Discord
+- Google Docs
 
 DevOp Tools
 - Git
@@ -76,11 +77,11 @@ DevOp Tools
 Design Tools
 -  Lucidchart
 -  Figma
--  Microsoft Paint
+-  Adobe Photoshop
 
 ---
 
-## (R2)
+## (R2) Dataflow Diagram
 
 ---
 
@@ -88,11 +89,11 @@ Design Tools
 
 ---
 
-## (R3)
+## (R3) Application Architecture Diagram
 
 ---
 
-## (R4)
+## (R4) User Stories
 
 ---
 
@@ -106,9 +107,9 @@ Design Tools
 
 ---
 
-## (R5)
+## (R5) Wireframes
 
 ---
 
-## (R6)
+## (R6) Trello Board
 
