@@ -47,10 +47,12 @@ Front-end
 - CSS
 - JavaScript
 - React.js
+- Bootstrap
 
 Back-end
 - Express.js
 - Node.js
+- Mongoose
 
 
 Database
@@ -93,6 +95,10 @@ Design Tools
 
 ---
 
+![Application-Architecture](docs/architecture.png)
+
+---
+
 ## (R4) User Stories
 
 ---
@@ -104,6 +110,7 @@ Design Tools
 5. As a recruiting manager for a large firm, I want to be able to sort candidates by qualifications and education level so that I can find suitable candidates to interview.
 6. As a lawn mowing service provider, I want to be able to advertise my services on a platform so that I can promote my business.
 7. As a university graduate, I want to be able to create a profile so that potential employers are able to find and contact me.
+8. As an admin, I want to be able to delete job listings and user accounts to ensure a safe environment which is free of malicious intent.
 
 ---
 
@@ -140,5 +147,11 @@ Design Tools
 ![Trello2](docs/trello2.png)
 
 ![Trello3](docs/trello3.png)
+
+![Trello4](docs/trello4.png)
+
+![Checklist1](docs/checklist1.png)
+
+![Checklist2](docs/checklist2.png)
 
 ---
